@@ -1,5 +1,5 @@
 
-# WikiStats
+# Wiki-scraper
 
 A Scrapy tool that gathers useless information from wikipedia pages, current main purpose of comparing amount of links to words, only handles paragraphs for now.
 
